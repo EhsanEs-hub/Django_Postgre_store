@@ -2,14 +2,17 @@
 
 # Virtual Env
 venv/
+
 Django_Postgre_store/__pycache__/
 djangoProject/__pycache__/
+orderApp/__pycache__/
 
 # Database
 db.sqlite3
 
 # Migrations
 Django_Postgre_store/migrations/
+orderApp/migrations/
 
 # Credentials
 .env
